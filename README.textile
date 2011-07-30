@@ -1,0 +1,3 @@
+h1. passgen
+
+Old project I found on an old drive. Used to generate a password from two values. Not very good, I use https://github.com/walle/pc now.
